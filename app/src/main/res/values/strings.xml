@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Collection Manager</string>
+    <string-array name="collection_types">
+        <item>String Collection</item>
+        <item>Integer Collection</item>
+        <item>User Collection</item>
+    </string-array>
+</resources>
